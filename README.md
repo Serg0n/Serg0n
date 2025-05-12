@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=Serg0n&hide=stars,prs,issues,contribs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Serg0n&layout=compact)](https://github.com/Serg0n/github-readme-stats)
 <!--
 **Serg0n/Serg0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
